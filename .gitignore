@@ -1,0 +1,18 @@
+# dependencies
+reactjs/node_modules/
+
+# env
+reactjs/.env
+
+# production
+react.js/build/
+
+# logs
+react.js/npm-debug.log*
+react.js/yarn-debug.log*
+react.js/yarn-error.log*
+
+# OS
+react.js/.DS_Store
+react.js/node_modules
+.
